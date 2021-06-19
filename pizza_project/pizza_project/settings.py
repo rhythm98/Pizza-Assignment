@@ -80,9 +80,9 @@ DATABASES = {
     'default': {
         'ENGINE': 'djongo',
         'CLIENT': {
-            'host': "mongodb+srv://admin:rhythm123@pizzaassignment.lxa6q.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
-            'username': 'admin',
-            'password': 'rhythm123',
+            'host': "your host",
+            'username': 'your username',
+            'password': 'your password',
             'authMechanism': 'SCRAM-SHA-1'
         }
 
